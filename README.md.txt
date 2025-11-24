@@ -83,7 +83,7 @@ src/
  └─ index.js
  Instalación del Proyecto
 1. Clonar repositorio
-git clone https://github.com/TU_USUARIO/tienda-react-examen.git
+git clone https://github.com/Felipe-ivr/tienda-react-examen
 cd tienda-react-examen
 
 2. Instalar dependencias
@@ -115,4 +115,5 @@ Autor:
 Felipe Isaías Vergara Rojas
 Analista Programador – IPLACEX
 2024–2025q
+
 
